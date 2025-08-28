@@ -30,7 +30,9 @@ You can also launch this entire repo on qBraid by clicking on the button below:
 
 To launch specific materials, check the links below
 
-
+| Notebook | qBraid |
+| -------- | ------- |
+| IEEE QCE 2025 Tutorial Notebook | <a href="https://account.qbraid.com/?gitHubUrl=https://github.com/NVIDIA/cuda-q-academic.git&redirectUrl=quick-start-to-quantum/01_quick_start_to_quantum.ipynb" target="_parent"><img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" alt="Launch On qBraid" width="150"/></a> |
 
 ## Citing
 
