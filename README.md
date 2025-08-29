@@ -32,11 +32,9 @@ To launch specific materials, check the links below
 
 | Notebook | qBraid |
 | -------- | ------- |
-| IEEE QCE 2025 Tutorial Notebook | <a href="https://account.qbraid.com/?gitHubUrl=https://github.com/NVIDIA/cuda-q-academic.git&redirectUrl=quick-start-to-quantum/01_quick_start_to_quantum.ipynb" target="_parent"><img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" alt="Launch On qBraid" width="150"/></a> |
+| IEEE QCE 2025 Tutorial Notebook | [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/QuEraComputing/quera-education.git&redirectUrl=<https://github.com/QuEraComputing/quera-education/blob/main/IEEE_2025/circuit_noise.ipynb>&slug=<ieee_q_zw61r3>) |
 
 
-
-[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/QuEraComputing/quera-education.git&redirectUrl=<https://github.com/QuEraComputing/quera-education/tree/main/IEEE_2025>&slug=<ieee_q_zw61r3>)
 
 ## Citing
 
