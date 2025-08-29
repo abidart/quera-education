@@ -32,9 +32,7 @@ To launch specific materials, check the links below
 
 | Notebook | qBraid |
 | -------- | ------- |
-| IEEE QCE 2025 Tutorial Notebook | [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/QuEraComputing/quera-education.git&redirectUrl=/IEEE_2025/circuit_noise.ipynb&slug=ieee_q_zw61r3) |
-
-[![Env Badge](https://img.shields.io/endpoint?url=https://api.qbraid.com/api/environments/valid?envSlug=qbraid_sdk_9j9sjy&label=Launch+on+qBraid&labelColor=white&logo=rocket&logoSize=auto&style=for-the-badge)](http://account.qbraid.com?gitHubUrl=https://github.com/QuEraComputing/quera-education.git&redirectUrl=/IEEE_2025/circuit_noise.ipynb&envId=ieee_q_zw61r3)
+| IEEE QCE 2025 Tutorial Notebook | [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](http://account.qbraid.com?gitHubUrl=https://github.com/QuEraComputing/quera-education.git&redirectUrl=/IEEE_2025/circuit_noise.ipynb&envId=ieee_q_zw61r3) |
 
 ## Citing
 
